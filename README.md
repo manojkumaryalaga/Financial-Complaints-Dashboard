@@ -42,7 +42,7 @@ The dataset includes anonymized consumer financial complaints collected through 
 
 ## Dashboard Screenshot
 
-![Financial Complaints Dashboard]!(Screenshot/Screenshot%20(143).png)
+![Financial Complaints Dashboard](Screenshot/Screenshot%20(143).png)
 
 ## Insights
 
